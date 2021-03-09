@@ -1,0 +1,21 @@
+/* This is a CSS comment. Put your CSS styling below this line */
+header {
+  color: crimson;
+  text-align: center;
+  text-shadow: 2px 2px black;
+}
+body {
+  color: black;
+  background-color: rgb(97, 89, 87);
+  text-align: center;
+}
+img {
+  border-radius: 50%;
+}
+a {
+  font-size: 25px;
+  font-weight: bold;
+}
+p {
+  font-size: 20px;
+}
